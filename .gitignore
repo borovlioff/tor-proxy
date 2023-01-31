@@ -1,0 +1,4 @@
+node_modules
+tor-auth
+tor-config
+.env
